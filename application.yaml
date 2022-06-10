@@ -1,1 +1,4 @@
 message: yaml from prod
+server: Prod server
+username: prod_user
+password: prod_pass
